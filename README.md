@@ -1,14 +1,15 @@
 # UnMute-SignLanguage-AI
 AI-powered Arabic Sign Language recognition system for inclusive communication and awareness.
 
+---
+
 # Un-Mute: Arabic Sign Language Recognition
 
 > An AI-powered project that amplifies the voices of those who live in silence.  
 > Un-Mute breaks stereotypes, celebrates talent, and promotes inclusion for the deaf community.
 
 ---
-
-![Intro Screen](interface/Intro_Screen.jpg)
+![Intro Screen](samples/Intro_Screen.jpg)
 
 ---
 
